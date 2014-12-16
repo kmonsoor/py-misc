@@ -27,7 +27,7 @@
 
 
 """
-Calculate distance and compass bearing between 2 GPS co-ordinates.
+Calculate distance and compass heading between 2 GPS co-ordinates.
 
 usage:
     gps_distance((lat1, long1), (lat2, long2))

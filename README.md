@@ -6,7 +6,11 @@ Miscellaneous short but useful Python code snippets, created and collected over 
 Please feel free to use, share, and contribute.
 
 
-https://github.com/bkkcoins/misc/blob/master/gps/kmgps
+### gps_coord_distance
+Calculate distance and compass heading between 2 GPS co-ordinates.
+
+### calculate_md5
+
 
 
 
