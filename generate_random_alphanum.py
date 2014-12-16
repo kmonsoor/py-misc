@@ -7,7 +7,7 @@
 # # licensed under:  CC-SA-3.0   http://creativecommons.org/licenses/by-sa/3.0/
 
 """
-    Returns a random string consisting only uppercase(A-Z) and numbers(0-9).
+    Generate a random string consisting only uppercase(A-Z) and numbers(0-9).
 
     String length will be <length>
 """
